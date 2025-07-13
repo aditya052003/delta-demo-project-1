@@ -1,3 +1,3 @@
 # delta-demo-project-1
 beginning
-This is my demo repository
+This is my demo repository.
